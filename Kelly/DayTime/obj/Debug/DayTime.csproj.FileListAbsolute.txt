@@ -1,0 +1,7 @@
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\DayTime\bin\Debug\DayTime.exe.config
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\DayTime\bin\Debug\DayTime.exe
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\DayTime\bin\Debug\DayTime.pdb
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\DayTime\obj\Debug\DayTime.csproj.AssemblyReference.cache
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\DayTime\obj\Debug\DayTime.csproj.CoreCompileInputs.cache
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\DayTime\obj\Debug\DayTime.exe
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\DayTime\obj\Debug\DayTime.pdb
