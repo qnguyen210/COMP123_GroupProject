@@ -4,3 +4,9 @@ C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Pro
 C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\AccountLib\obj\Debug\AccountLib.csproj.CoreCompileInputs.cache
 C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\AccountLib\obj\Debug\AccountLib.dll
 C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\AccountLib\obj\Debug\AccountLib.pdb
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\COMP123_GroupProject\Kelly\AccountLib\bin\Debug\AccountLib.dll
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\COMP123_GroupProject\Kelly\AccountLib\bin\Debug\AccountLib.pdb
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\COMP123_GroupProject\Kelly\AccountLib\obj\Debug\AccountLib.csproj.AssemblyReference.cache
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\COMP123_GroupProject\Kelly\AccountLib\obj\Debug\AccountLib.csproj.CoreCompileInputs.cache
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\COMP123_GroupProject\Kelly\AccountLib\obj\Debug\AccountLib.dll
+C:\Users\cyusa\OneDrive\Documents\school materials\Semester II\Programing II\Project\GroupProject\COMP123_GroupProject\Kelly\AccountLib\obj\Debug\AccountLib.pdb

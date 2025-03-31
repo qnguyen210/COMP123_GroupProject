@@ -10,9 +10,6 @@ namespace AccountLib
     {
         public long minutes;
 
-        // C# 7.3 doesn't support parameterless constructors for structs
-        // so we'll use the default value instead
-
         public DayTime(long minutes)
         {
             this.minutes = minutes;
@@ -31,31 +28,19 @@ namespace AccountLib
             int hour = 0;
             long remainingMinutes = minutes;
 
-            // Calculate years, months, days, hours and minutes
-            if (remainingMinutes > 0)
-            {
-                // Handle positive minutes
-                int minutesInHour = 60;
-                int hoursInDay = 24;
-                int daysInMonth = 30; // Simplified model assuming 30 days per month
-                int monthsInYear = 12;
+           
+            hour = (int)(remainingMinutes / 60);
+            remainingMinutes %= 60;
 
-                // Extract hours
-                hour = (int)(remainingMinutes / minutesInHour);
-                remainingMinutes = remainingMinutes % minutesInHour;
+            
+            day += hour / 24;
+            hour %= 24;
 
-                // Extract days
-                day += hour / hoursInDay;
-                hour = hour % hoursInDay;
+            month += (day - 1) / 30;  
+            day = ((day - 1) % 30) + 1;
 
-                // Extract months
-                month += (day - 1) / daysInMonth;
-                day = ((day - 1) % daysInMonth) + 1;
-
-                // Extract years
-                year += (month - 1) / monthsInYear;
-                month = ((month - 1) % monthsInYear) + 1;
-            }
+            year += (month - 1) / 12;
+            month = ((month - 1) % 12) + 1;
 
             return $"- {year} - {month:D2} - {day:D2} {hour:D2}:{remainingMinutes:D2}";
         }
